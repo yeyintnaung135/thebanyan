@@ -1,0 +1,380 @@
+[01-Aug-2017 10:46:38 Asia/Rangoon] PHP Fatal error:  Call to a member function delete() on null in /home/thebymm/public_html/the-banyan/app/Http/Controllers/MessagesController.php on line 181
+[01-Aug-2017 10:47:20 Asia/Rangoon] PHP Fatal error:  Call to a member function delete() on null in /home/thebymm/public_html/the-banyan/app/Http/Controllers/MessagesController.php on line 181
+[04-Aug-2017 10:12:01 Asia/Rangoon] PHP Fatal error:  Call to a member function first() on array in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 37
+[18-Aug-2017 11:01:48 Asia/Rangoon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 75 bytes) in /home/thebymm/public_html/the-banyan/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 347
+[26-Aug-2017 11:17:46 Asia/Rangoon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 83 bytes) in /home/thebymm/public_html/the-banyan/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 347
+[28-Aug-2017 12:30:32 Asia/Rangoon] PHP Fatal error:  Class 'Controller' not found in /home/thebymm/public_html/the-banyan/app/Http/Controllers/ApiController.php on line 9
+[29-Aug-2017 10:47:31 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ']' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:48:12 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ']' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:48:14 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ']' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:48:15 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ']' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:48:32 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ']' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:48:43 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ']' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:48:44 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ']' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:49:34 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ')' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:49:39 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ')' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:49:42 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ')' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:50:47 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '$raw_psw' (T_VARIABLE), expecting ']' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:50:51 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '$raw_psw' (T_VARIABLE), expecting ']' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:51:05 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '$raw_psw' (T_VARIABLE), expecting ']' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:51:07 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '$raw_psw' (T_VARIABLE), expecting ']' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:51:09 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '$raw_psw' (T_VARIABLE), expecting ']' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 10:51:14 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '$raw_psw' (T_VARIABLE), expecting ']' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/LoginsapiController.php on line 70
+[29-Aug-2017 14:53:31 Asia/Rangoon] PHP Fatal error:  Class 'App\Http\Middleware\Auth' not found in /home/thebymm/public_html/the-banyan/app/Http/Middleware/LockStaff.php on line 18
+[29-Sep-2017 10:42:38 Asia/Rangoon] Start BackEnd ...
+[29-Sep-2017 10:42:38 Asia/Rangoon] POST params Array
+(
+)
+
+[29-Sep-2017 10:42:38 Asia/Rangoon] sig: 
+[29-Sep-2017 10:42:38 Asia/Rangoon] gen hash: FBDB1D1B18AA6C08324B7D64B71FB76370690E1D
+[29-Sep-2017 10:42:38 Asia/Rangoon] Finish BackEnd.
+[29-Sep-2017 11:09:42 Asia/Rangoon] Start BackEnd ...
+[29-Sep-2017 11:09:42 Asia/Rangoon] POST params Array
+(
+)
+
+[29-Sep-2017 11:09:42 Asia/Rangoon] sig: 
+[29-Sep-2017 11:09:42 Asia/Rangoon] gen hash: FBDB1D1B18AA6C08324B7D64B71FB76370690E1D
+[29-Sep-2017 11:09:42 Asia/Rangoon] Finish BackEnd.
+[30-Sep-2017 10:04:27 Asia/Rangoon] Start BackEnd ...
+[30-Sep-2017 10:04:27 Asia/Rangoon] POST params Array
+(
+)
+
+[30-Sep-2017 10:04:27 Asia/Rangoon] sig: 
+[30-Sep-2017 10:04:27 Asia/Rangoon] gen hash: FBDB1D1B18AA6C08324B7D64B71FB76370690E1D
+[30-Sep-2017 10:04:27 Asia/Rangoon] Finish BackEnd.
+[30-Sep-2017 10:04:52 Asia/Rangoon] Start BackEnd ...
+[30-Sep-2017 10:04:52 Asia/Rangoon] POST params Array
+(
+)
+
+[30-Sep-2017 10:04:52 Asia/Rangoon] sig: 
+[30-Sep-2017 10:04:52 Asia/Rangoon] gen hash: FBDB1D1B18AA6C08324B7D64B71FB76370690E1D
+[30-Sep-2017 10:04:52 Asia/Rangoon] Finish BackEnd.
+[30-Sep-2017 10:06:52 Asia/Rangoon] Processing_mpu:signature00000001000010420410400100286421124121CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 10:06:52 Asia/Rangoon] Processing_mpu:hash01F74E78DD66F35407BB1E7DE85732ED828BCD3E
+[30-Sep-2017 10:07:19 Asia/Rangoon] Processing_mpu:signature0000000100001042041040010028643423231CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 10:07:19 Asia/Rangoon] Processing_mpu:hashB565BB0C2F43D281C64748E23E008D0C86291289
+[30-Sep-2017 10:08:06 Asia/Rangoon] Processing_mpu:signature000000010000104121213111204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 10:08:06 Asia/Rangoon] Processing_mpu:hashF7D62739F12B8075DCE8A451117E49E3E41B0DFC
+[30-Sep-2017 10:08:44 Asia/Rangoon] Processing_mpu:signature0000000100001041113131221204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 10:08:44 Asia/Rangoon] Processing_mpu:hash235C9907EBE7C02CE70B0C78058BA95601BACEFA
+[30-Sep-2017 10:09:50 Asia/Rangoon] Processing_mpu:signature00000001000010413132221204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 10:09:50 Asia/Rangoon] Processing_mpu:hash5FBE099D59282572E9742C76363A1357E5CD507D
+[30-Sep-2017 10:11:20 Asia/Rangoon] Processing_mpu:signature0000000100001041122204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 10:11:20 Asia/Rangoon] Processing_mpu:hash831626E240232205D9E584EEC8E5A07F3365D3FC
+[30-Sep-2017 10:11:30 Asia/Rangoon] Processing_mpu:signature00000001000010411234204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 10:11:30 Asia/Rangoon] Processing_mpu:hash0041A1257201B7FCB4978EDD2FBE6682BF817CB6
+[30-Sep-2017 10:13:35 Asia/Rangoon] Processing_mpu:signature00000001000000000020170930101142104204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 10:13:35 Asia/Rangoon] Processing_mpu:hash8DC2A2AD3B60F3AB7DC100F7E52417378ACF1DD0
+[30-Sep-2017 10:52:27 Asia/Rangoon] Processing_mpu:signature000000010000104204104001002864212131314CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 10:52:27 Asia/Rangoon] Processing_mpu:hash11FDD4C8E22300669A0DB5C7C04A4648CE4D543E
+[30-Sep-2017 10:53:00 Asia/Rangoon] Processing_mpu:signature00000001000010420410400100286431123323CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 10:53:00 Asia/Rangoon] Processing_mpu:hashD906FE6605A168B02C877EF695F41DA357282FCD
+[30-Sep-2017 10:53:21 Asia/Rangoon] Processing_mpu:signature0000000100001041112131414142204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 10:53:21 Asia/Rangoon] Processing_mpu:hash13AD00D2A371ADD6285A2560D00C1651CBD09FD2
+[30-Sep-2017 11:08:44 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/thebymm/public_html/the-banyan/storage/framework/views/ed4acdfdf8d819160051094f6143ba6b70d33b77.php on line 45
+[30-Sep-2017 11:09:14 Asia/Rangoon] Processing_mpu:signature00000001000000000020170930110918104204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 11:09:14 Asia/Rangoon] Processing_mpu:hash3927BE2B498F8300FCCB7325B4477A1A904630A5
+[30-Sep-2017 11:09:44 Asia/Rangoon] Processing_mpu:signature00000001000000000020170930110948104204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 11:09:44 Asia/Rangoon] Processing_mpu:hash44A38850AEC993EB94D52B878F86089EE6B3AEC6
+[30-Sep-2017 11:10:35 Asia/Rangoon] Processing_mpu:signature00000001000010420410400100286432324242CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 11:10:35 Asia/Rangoon] Processing_mpu:hash75358C59D70EF93059C2D82CF7D12F8DCCEFA48B
+[30-Sep-2017 11:29:33 Asia/Rangoon] Processing_mpu:signature00000001000000000020170930112937104204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 11:29:33 Asia/Rangoon] Processing_mpu:hash58C87D38E40FE66E51BD45C9BB9497662197F0AC
+[30-Sep-2017 11:39:43 Asia/Rangoon] Processing_mpu:signature0000000100001042041040010028642134241212CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 11:39:43 Asia/Rangoon] Processing_mpu:hash768F3DE6BD6BB3F6355628976753FA024C0DC1B4
+[30-Sep-2017 11:41:07 Asia/Rangoon] Processing_mpu:signature000000010000104204104001002864423423525CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 11:41:07 Asia/Rangoon] Processing_mpu:hash28995E93E047DA8C026E72AB791B78E8A1D20EB3
+[30-Sep-2017 11:41:24 Asia/Rangoon] Processing_mpu:signature000000010000104204104001002864424234211CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 11:41:24 Asia/Rangoon] Processing_mpu:hashE675EDCA1FF7ECD6B7EF522C62BE29E77AF89140
+[30-Sep-2017 11:43:01 Asia/Rangoon] Processing_mpu:signature0000000100001042041040010028642131311111CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 11:43:01 Asia/Rangoon] Processing_mpu:hash897A5E6DC29B27BABF92BD27AC1598E04B065CDF
+[30-Sep-2017 11:50:33 Asia/Rangoon] Processing_mpu:signature000000010000104204104001002864312321412CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 11:50:33 Asia/Rangoon] Processing_mpu:hashB321276F1EA5778F89833F88B219104E4B890297
+[30-Sep-2017 12:09:33 Asia/Rangoon] Processing_mpu:signature00000001000000000020170930120938104204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 12:09:33 Asia/Rangoon] Processing_mpu:hashD09D3C18F2B597DA068D6588F06EE510B98193F6
+[30-Sep-2017 12:10:01 Asia/Rangoon] Processing_mpu:signature00000001000000000020170930121005104204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 12:10:01 Asia/Rangoon] Processing_mpu:hash0B1C8D29447C6C2367F3156B3D57A72E9B3F157C
+[30-Sep-2017 12:12:15 Asia/Rangoon] PHP Fatal error:  Call to a member function toArray() on array in /home/thebymm/public_html/the-banyan/storage/framework/views/ed4acdfdf8d819160051094f6143ba6b70d33b77.php on line 29
+[30-Sep-2017 12:12:56 Asia/Rangoon] PHP Fatal error:  Call to a member function toArray() on array in /home/thebymm/public_html/the-banyan/storage/framework/views/ed4acdfdf8d819160051094f6143ba6b70d33b77.php on line 29
+[30-Sep-2017 12:14:10 Asia/Rangoon] PHP Fatal error:  Call to a member function toArray() on array in /home/thebymm/public_html/the-banyan/storage/framework/views/ed4acdfdf8d819160051094f6143ba6b70d33b77.php on line 73
+[30-Sep-2017 12:15:12 Asia/Rangoon] PHP Fatal error:  Call to a member function toArray() on array in /home/thebymm/public_html/the-banyan/storage/framework/views/ed4acdfdf8d819160051094f6143ba6b70d33b77.php on line 73
+[30-Sep-2017 12:15:33 Asia/Rangoon] Processing_mpu:signature00000001000000000020170930121537104204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[30-Sep-2017 12:15:33 Asia/Rangoon] Processing_mpu:hash7716958F75F4DFE2E568EC4A8B9257FB7B2FA563
+[02-Oct-2017 10:09:27 Asia/Rangoon] Processing_mpu:signature00000001000010411112121204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 10:09:27 Asia/Rangoon] Processing_mpu:hashEBD4D435B47B499B853C728604CB1F57747B1295
+[02-Oct-2017 10:15:44 Asia/Rangoon] Processing_mpu:signature00000001000010420410400100286441432321313CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 10:15:44 Asia/Rangoon] Processing_mpu:hashD3B079C21FFD91A6AC96663ED462DB8E9084F4E5
+[02-Oct-2017 10:17:27 Asia/Rangoon] PHP Fatal error:  Call to a member function toArray() on array in /home/thebymm/public_html/the-banyan/storage/framework/views/ed4acdfdf8d819160051094f6143ba6b70d33b77.php on line 2
+[02-Oct-2017 10:17:35 Asia/Rangoon] PHP Fatal error:  Call to a member function toArray() on array in /home/thebymm/public_html/the-banyan/storage/framework/views/ed4acdfdf8d819160051094f6143ba6b70d33b77.php on line 2
+[02-Oct-2017 10:50:14 Asia/Rangoon] PHP Fatal error:  Call to a member function all() on string in /home/thebymm/public_html/the-banyan/storage/framework/views/ed4acdfdf8d819160051094f6143ba6b70d33b77.php on line 3
+[02-Oct-2017 11:03:09 Asia/Rangoon] Processing_mpu:signature000000010000104111112131131204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 11:03:09 Asia/Rangoon] Processing_mpu:hash54D23E58526A0276F64F8FA10E3C1082D6A3430F
+[02-Oct-2017 11:03:54 Asia/Rangoon] Processing_mpu:signature00000001000010411111204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 11:03:54 Asia/Rangoon] Processing_mpu:hash7755F985FB23DB059544865E13477414A2E56867
+[02-Oct-2017 11:05:03 Asia/Rangoon] Processing_mpu:signature0000000100001041313131777204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 11:05:03 Asia/Rangoon] Processing_mpu:hash76105DAC43398E1CB5C468C4721884AE8A1464B8
+[02-Oct-2017 11:05:15 Asia/Rangoon] Processing_mpu:signature000000010000104204104001002864777787897CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 11:05:15 Asia/Rangoon] Processing_mpu:hashB843641DBDDBE3156C2B2832946008B271D59E10
+[02-Oct-2017 11:08:50 Asia/Rangoon] Processing_mpu:signature00000001000010411121355556204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 11:08:50 Asia/Rangoon] Processing_mpu:hash6DC7468A27C960F77E160214A5276E1AE49995AC
+[02-Oct-2017 11:09:14 Asia/Rangoon] Processing_mpu:signature00000001000010411131355511204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 11:09:14 Asia/Rangoon] Processing_mpu:hash83056922DFC03C9F7A0731212017B2E74C7F0CE8
+[02-Oct-2017 11:14:21 Asia/Rangoon] Processing_mpu:signature000000010000104131313155151204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 11:14:21 Asia/Rangoon] Processing_mpu:hash885D45004C674FC52D93E5F5A7090AB2BEC56057
+[02-Oct-2017 11:18:28 Asia/Rangoon] Processing_mpu:signature0000000100001041212131131204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 11:18:28 Asia/Rangoon] Processing_mpu:hash083F52F60B939AA793065A68D569C0F6D93AD04E
+[02-Oct-2017 11:21:05 Asia/Rangoon] Processing_mpu:signature000000010000104204104001002864212121313111CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 11:21:05 Asia/Rangoon] Processing_mpu:hash410CDE61A76A647A014AB19B556A423275D3AA4B
+[02-Oct-2017 11:21:50 Asia/Rangoon] Processing_mpu:signature000000010000104111128897204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 11:21:50 Asia/Rangoon] Processing_mpu:hash7138414149D7A7DF326ED75AFAD70B2AA0B278B3
+[02-Oct-2017 14:10:24 Asia/Rangoon] Processing_mpu:signature00000001000000000020171002140940104204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 14:10:24 Asia/Rangoon] Processing_mpu:hash8E1AC6F7436BF007DCFFD594ED6D2A9AEDFB61CA
+[02-Oct-2017 14:11:04 Asia/Rangoon] Processing_mpu:signature00000001000000000020171002141030104204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 14:11:04 Asia/Rangoon] Processing_mpu:hash7817F0DED3AAD76D914CCC4898CCDA4E76571771
+[02-Oct-2017 15:18:19 Asia/Rangoon] Processing_mpu:signature0000000100001042041040010028642226667676CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 15:18:19 Asia/Rangoon] Processing_mpu:hash33D94E5AB21E831DAE3C76A9F82E2D3CBB3F3991
+[02-Oct-2017 16:11:10 Asia/Rangoon] Processing_mpu:signature000000010000104204104001002864423423425521CB Test ProductuserDefined1userDefined2userDefined3
+[02-Oct-2017 16:11:10 Asia/Rangoon] Processing_mpu:hash7E3EE409BB972F7B197EED6CC8181E7C42A9426E
+[03-Oct-2017 10:17:27 Asia/Rangoon] Processing_mpu:signature000000010000000000201710035545101506104204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[03-Oct-2017 10:17:27 Asia/Rangoon] Processing_mpu:hash11535DEB140E1F8E87EDF105444A6A59EBE1E441
+[03-Oct-2017 10:17:45 Asia/Rangoon] Processing_mpu:signature000000010000104111616161771204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[03-Oct-2017 10:17:45 Asia/Rangoon] Processing_mpu:hash5AA042BC267DFB2F8DD328ABCB8F87893A58D1FB
+[03-Oct-2017 10:49:23 Asia/Rangoon] Processing_mpu:signature0000001200001041507004361960204104001002864CB Test ProductuserDefined1
+[03-Oct-2017 10:49:23 Asia/Rangoon] Processing_mpu:hashC6D50B4F2828AD2832AD452511B08831A5AAC15B
+[03-Oct-2017 10:50:14 Asia/Rangoon] Processing_mpu:signature0001889088001041507004409255204104001002864CB Test ProductuserDefined1
+[03-Oct-2017 10:50:14 Asia/Rangoon] Processing_mpu:hash0869E8D504F6B4614A713EFC09865A42EC9047D5
+[03-Oct-2017 10:50:44 Asia/Rangoon] Processing_mpu:signature0000010200001041507004442595204104001002864CB Test ProductuserDefined1
+[03-Oct-2017 10:50:44 Asia/Rangoon] Processing_mpu:hash966AC12582903D9927EF3F475D254D8C48E66742
+[03-Oct-2017 10:56:54 Asia/Rangoon] Processing_mpu:signature00000001000010411121213344131204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[03-Oct-2017 10:56:54 Asia/Rangoon] Processing_mpu:hash60EC595A3412E97E680854B3577B28FE4AFFA6D9
+[03-Oct-2017 11:13:27 Asia/Rangoon] Processing_mpu:signature0000000100001041121314451551204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[03-Oct-2017 11:13:27 Asia/Rangoon] Processing_mpu:hash480075D8AF715B4727ED1746755428C0E7B60B1B
+[03-Oct-2017 11:19:30 Asia/Rangoon] Processing_mpu:signature0000000100001042041040010028645616143114314CB Test ProductuserDefined1userDefined2userDefined3
+[03-Oct-2017 11:19:30 Asia/Rangoon] Processing_mpu:hash9E40983DFF28959D4DEDD8A341D9FE1E70FBC96B
+[03-Oct-2017 11:23:43 Asia/Rangoon] Processing_mpu:signature0000000100001042041040010028645616143114318CB Test ProductuserDefined1userDefined2userDefined3
+[03-Oct-2017 11:23:43 Asia/Rangoon] Processing_mpu:hashF44ECC9D4D0983899CE951D280BBAF025F620D39
+[03-Oct-2017 11:29:41 Asia/Rangoon] Processing_mpu:signature00000001000010420410400100286451612256662CB Test ProductuserDefined1userDefined2userDefined3
+[03-Oct-2017 11:29:41 Asia/Rangoon] Processing_mpu:hashE5F650E8E077C1A25C2EBAB0946DED6272988A1A
+[03-Oct-2017 13:59:14 Asia/Rangoon] Processing_mpu:signature00000001000010420410400100286421213313113131CB Test ProductuserDefined1userDefined2userDefined3
+[03-Oct-2017 13:59:14 Asia/Rangoon] Processing_mpu:hashE8399A7AADAB94C63232A0A6AE3DE10DD34C5B53
+[03-Oct-2017 14:11:30 Asia/Rangoon] Processing_mpu:signature000000010000104204104001002864314151234241CB Test ProductuserDefined1userDefined2userDefined3
+[03-Oct-2017 14:11:30 Asia/Rangoon] Processing_mpu:hash3BF5A0FD90B8254B07A1E3EC1D570D15BAD64F0B
+[03-Oct-2017 16:36:26 Asia/Rangoon] Processing_mpu:signature000000010000104204104001002864331313155151CB Test ProductuserDefined1userDefined2userDefined3
+[03-Oct-2017 16:36:26 Asia/Rangoon] Processing_mpu:hash970717625DBBB25D2811F7382BAF7456CB42AA6A
+[04-Oct-2017 11:47:28 Asia/Rangoon] Processing_mpu:signature0000000100001041212133341111204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[04-Oct-2017 11:47:28 Asia/Rangoon] Processing_mpu:hashC41EDC14AD64F16E18DD461142B6A199B0729427
+[04-Oct-2017 12:06:41 Asia/Rangoon] Processing_mpu:signature0000000100001041111122313141204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[04-Oct-2017 12:06:41 Asia/Rangoon] Processing_mpu:hash3C335B571F8CA84B0D7B669A4BA9469380B3F8E9
+[04-Oct-2017 13:11:04 Asia/Rangoon] Processing_mpu:signature000000010000104204104001002864624552562626CB Test ProductuserDefined1userDefined2userDefined3
+[04-Oct-2017 13:11:04 Asia/Rangoon] Processing_mpu:hash5B0A586FA7B6F5DB717973BEB7DA8A54D0F13904
+[04-Oct-2017 14:44:30 Asia/Rangoon] Processing_mpu:signature000000010000104204104001002864777676CB Test ProductuserDefined1userDefined2userDefined3
+[04-Oct-2017 14:44:30 Asia/Rangoon] Processing_mpu:hash6B6546AEB7961A1ACE05F4C564A1599193D8E549
+[04-Oct-2017 14:48:29 Asia/Rangoon] Processing_mpu:signature00000001000010412123114145666204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[04-Oct-2017 14:48:29 Asia/Rangoon] Processing_mpu:hashBB4512EDFEDFBAE5536ECC0A7B208DBA52E621DE
+[04-Oct-2017 14:54:44 Asia/Rangoon] Processing_mpu:signature00000001000010420410400100286467316317841313CB Test ProductuserDefined1userDefined2userDefined3
+[04-Oct-2017 14:54:44 Asia/Rangoon] Processing_mpu:hash098CDF3345FBBE1640AEB259F36FB6DA7126419E
+[04-Oct-2017 14:59:52 Asia/Rangoon] Processing_mpu:signature000000010000104121146622321204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[04-Oct-2017 14:59:52 Asia/Rangoon] Processing_mpu:hashFC51C370177AAA0EBA41CFB9C74AF04400E30C6F
+[04-Oct-2017 15:03:57 Asia/Rangoon] Processing_mpu:signature000000010000104204104001002864212133133131CB Test ProductuserDefined1userDefined2userDefined3
+[04-Oct-2017 15:03:57 Asia/Rangoon] Processing_mpu:hashDFE4725C48046FD45277307B2A77F7B2A7106BA8
+[04-Oct-2017 15:17:57 Asia/Rangoon] Processing_mpu:signature00000001000010420410400100286421213141555113CB Test ProductuserDefined1userDefined2userDefined3
+[04-Oct-2017 15:17:57 Asia/Rangoon] Processing_mpu:hashC0E0033191E39FCE22F3032EA018681066F43658
+[04-Oct-2017 15:28:11 Asia/Rangoon] Processing_mpu:signature00000001000000000020171004152816104204104001002864CB Test ProductuserDefined1userDefined2userDefined3
+[04-Oct-2017 15:28:11 Asia/Rangoon] Processing_mpu:hash0BAB3054DA692BF1FC209540F4718868C42560F1
+[04-Oct-2017 16:03:36 Asia/Rangoon] Processing_mpu:signature0000001200001041507109615907204104001002864CB Test ProductuserDefined1
+[04-Oct-2017 16:03:36 Asia/Rangoon] Processing_mpu:hash4AD6C6425F076521436B889DE30340306A4A6AEF
+[04-Oct-2017 16:04:26 Asia/Rangoon] Processing_mpu:signature0000001200001041507109665213204104001002864CB Test ProductuserDefined1
+[04-Oct-2017 16:04:26 Asia/Rangoon] Processing_mpu:hash75F76839BC45486A4F22EFAC833B74C1C1A53F55
+[09-Oct-2017 11:36:45 Asia/Rangoon] PHP Parse error:  syntax error, unexpected end of file in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 504
+[09-Oct-2017 11:36:48 Asia/Rangoon] PHP Parse error:  syntax error, unexpected end of file in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 504
+[09-Oct-2017 11:37:00 Asia/Rangoon] PHP Parse error:  syntax error, unexpected end of file in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 504
+[09-Oct-2017 11:37:01 Asia/Rangoon] PHP Parse error:  syntax error, unexpected end of file in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 504
+[09-Oct-2017 11:40:15 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:40:17 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:40:47 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:40:53 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:40:56 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:41:36 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:41:39 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:41:45 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:41:57 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:42:02 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:42:18 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:42:43 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:42:46 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:42:48 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:42:54 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:42:57 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:43:06 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:43:14 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 11:43:16 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 487
+[09-Oct-2017 16:35:17 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 478
+[09-Oct-2017 16:35:27 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 478
+[10-Oct-2017 09:49:29 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ''<br>'' (T_CONSTANT_ENCAPSED_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 492
+[10-Oct-2017 09:54:42 Asia/Rangoon] Processing_mpu:signature0000000100001042041040010028642121313131CB Test ProductuserDefined1userDefined2userDefined3
+[10-Oct-2017 09:54:42 Asia/Rangoon] Processing_mpu:hashBB34BD51D1EC91A1C40479F995E35BE57EA7BEA2
+[10-Oct-2017 10:09:20 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ''Bonus '' (T_CONSTANT_ENCAPSED_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 494
+[10-Oct-2017 10:09:22 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ''Bonus '' (T_CONSTANT_ENCAPSED_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 494
+[10-Oct-2017 10:09:25 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ''Bonus '' (T_CONSTANT_ENCAPSED_STRING) in /home/thebymm/public_html/the-banyan/app/Http/routes.php on line 494
+[10-Oct-2017 10:16:17 Asia/Rangoon] Processing_mpu:signature0000010200001041507607177983204104001002864CB Test ProductuserDefined1
+[10-Oct-2017 10:16:17 Asia/Rangoon] Processing_mpu:hashFAFBE2D25B0185BEF9B6BF5D7A3A545A34C1046D
+[10-Oct-2017 10:22:55 Asia/Rangoon] Processing_mpu:signature0000001200001041507607576108204104001002864CB Test ProductuserDefined1
+[10-Oct-2017 10:22:55 Asia/Rangoon] Processing_mpu:hash25A1BA2172DC0AEBB3F1FED3F5F4F91DEDE7B33A
+[10-Oct-2017 10:49:18 Asia/Rangoon] Processing_mpu:signature0000001200001041507609158389204104001002864CB Test ProductuserDefined1
+[10-Oct-2017 10:49:18 Asia/Rangoon] Processing_mpu:hash770762AECE6BD9E8450800F4D1208EF62FF53B95
+[10-Oct-2017 11:43:14 Asia/Rangoon] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/thebymm/public_html/the-banyan/app/Http/Controllers/NewmpuController.php on line 28
+[10-Oct-2017 12:50:47 Asia/Rangoon] Processing_mpu:signature0000002437101012493400000432000010420410400100286439443200CB Test ProductuserDefined1
+[10-Oct-2017 12:50:47 Asia/Rangoon] Processing_mpu:hashBC0835D66040CEAAEDB9BC931B1E293C60159D27
+[10-Oct-2017 12:56:14 Asia/Rangoon] Processing_mpu:signature000000206101012560900000432000010420410400100286439443200CB Test ProductuserDefined1
+[10-Oct-2017 12:56:14 Asia/Rangoon] Processing_mpu:hash62815055BF310D2E7DC1F1DDBCB5264762E20480
+[10-Oct-2017 12:58:51 Asia/Rangoon] Processing_mpu:signature000004320000104123131414120410400100286439443200CB Test ProductuserDefined1
+[10-Oct-2017 12:58:51 Asia/Rangoon] Processing_mpu:hash07AE7A0AC39938C73F3C1358AADDDAF8BB5040E8
+[10-Oct-2017 13:03:38 Asia/Rangoon] Processing_mpu:signature00000441000010420410400100286439442314111144100CB Test ProductuserDefined1
+[10-Oct-2017 13:03:38 Asia/Rangoon] Processing_mpu:hash1E13217A7C896F5A617AFCAC741D40FE6209BFA3
+[10-Oct-2017 13:05:58 Asia/Rangoon] Processing_mpu:signature0000002017101013055200000400000010420410400100286439444100CB Test ProductuserDefined1
+[10-Oct-2017 13:05:58 Asia/Rangoon] Processing_mpu:hashF91412BC2E859847C477A6341A551215479C2A64
+[10-Oct-2017 13:51:17 Asia/Rangoon] Processing_mpu:signature0000040000001041121775620410400100286439440000CB Test ProductuserDefined1
+[10-Oct-2017 13:51:17 Asia/Rangoon] Processing_mpu:hashD4D3433B77B7067EE179BCE4E3F6AF7C81C1D927
+[10-Oct-2017 14:04:09 Asia/Rangoon] Processing_mpu:signature000003020000104150762084757520410400100286430000CB Test ProductuserDefined1
+[10-Oct-2017 14:04:09 Asia/Rangoon] Processing_mpu:hash94B38BDC876293293FFD7CFA6569A88CBE394164
+[10-Oct-2017 14:07:05 Asia/Rangoon] Processing_mpu:signature00000012000010001041507621023522204104001002864CB Test ProductuserDefined1
+[10-Oct-2017 14:07:05 Asia/Rangoon] Processing_mpu:hashC65B80EE88DFA27C862D273E4AAAF9E70EAC33C4
+[10-Oct-2017 14:11:30 Asia/Rangoon] Processing_mpu:signature0000000100001104112345321204104001002864CB Test ProductuserDefined1userDefined2
+[10-Oct-2017 14:11:30 Asia/Rangoon] Processing_mpu:hashA404B22C9372D07B5B02F4A07C71D92471606CBC
+[10-Oct-2017 14:30:30 Asia/Rangoon] Processing_mpu:signature000000100000000000201710101430161104204104001002864CB Test ProductuserDefined1userDefined2
+[10-Oct-2017 14:30:30 Asia/Rangoon] Processing_mpu:hashDECC48764B3D7C10EA5A31B956FD33F3B3A72BAC
+[11-Oct-2017 10:48:49 Asia/Rangoon] Processing_mpu:signature000001020000100001041507695529827204104001002864CB Test ProductuserDefined1
+[11-Oct-2017 10:48:49 Asia/Rangoon] Processing_mpu:hashC3A7ADA4737FE2DF75E35EBE154BAA82C3F807C1
+[11-Oct-2017 10:51:41 Asia/Rangoon] Processing_mpu:signature0000010000001000001041111123204104001002864394CB Test ProductuserDefined1
+[11-Oct-2017 10:51:41 Asia/Rangoon] Processing_mpu:hashC86BB7F5265F41746024A5EB96B7D3CBAF77D7A7
+[11-Oct-2017 11:17:20 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '$difb' (T_VARIABLE) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/NewmpuController.php on line 35
+[11-Oct-2017 11:19:00 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '$difb' (T_VARIABLE) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/NewmpuController.php on line 35
+[11-Oct-2017 11:19:54 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '$difb' (T_VARIABLE) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/NewmpuController.php on line 35
+[11-Oct-2017 11:20:29 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ';' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/NewmpuController.php on line 36
+[11-Oct-2017 11:20:33 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ';' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/NewmpuController.php on line 36
+[11-Oct-2017 11:27:34 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ''%'' (T_CONSTANT_ENCAPSED_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/NewmpuController.php on line 36
+[11-Oct-2017 11:28:04 Asia/Rangoon] PHP Parse error:  syntax error, unexpected ''percent'' (T_CONSTANT_ENCAPSED_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/NewmpuController.php on line 36
+[11-Oct-2017 11:30:19 Asia/Rangoon] Processing_mpu:signature00000100000010000010411121341134204104001002864394CB Test ProductuserDefined1
+[11-Oct-2017 11:30:19 Asia/Rangoon] Processing_mpu:hashA76678E03683D1A1714A9D04C588B9184B3E81DD
+[11-Oct-2017 11:38:23 Asia/Rangoon] Processing_mpu:signature000001020000100001041507698502806204104001002864CB Test ProductuserDefined1
+[11-Oct-2017 11:38:23 Asia/Rangoon] Processing_mpu:hash1A6BDE3857C397C6DCB3E1DB243A654F436B8387
+[11-Oct-2017 13:43:03 Asia/Rangoon] Processing_mpu:signature000001020000100001041507705983245204104001002864CB Test ProductuserDefined1
+[11-Oct-2017 13:43:03 Asia/Rangoon] Processing_mpu:hash65C82E377CA1383B70E999BC3397201686A34D86
+[11-Oct-2017 13:55:20 Asia/Rangoon] Processing_mpu:signature000001020000100001041507706719607204104001002864CB Test ProductuserDefined1
+[11-Oct-2017 13:55:20 Asia/Rangoon] Processing_mpu:hash3566E08ABDF6AC27350A2A52966345B2DD4658B8
+[11-Oct-2017 14:07:45 Asia/Rangoon] Processing_mpu:signature00000012000010001041507707462751204104001002864394CB Test ProductuserDefined1
+[11-Oct-2017 14:07:45 Asia/Rangoon] Processing_mpu:hashC20EF4DCCD358D84F6B5BE3D9D2781AB9060EE95
+[11-Oct-2017 14:08:45 Asia/Rangoon] Processing_mpu:signature00000012000010001041507707522745204104001002864394CB Test ProductuserDefined1
+[11-Oct-2017 14:08:45 Asia/Rangoon] Processing_mpu:hashDA2B3439E351C67CAE40FFAADA5C3AC66305035B
+[11-Oct-2017 14:12:38 Asia/Rangoon] Processing_mpu:signature000002020000104150770775585920000204104001002864394CB Test ProductuserDefined1
+[11-Oct-2017 14:12:38 Asia/Rangoon] Processing_mpu:hash55288C485B505CFDCBC0A6120BBD79DD2FC2046D
+[11-Oct-2017 14:20:41 Asia/Rangoon] Processing_mpu:signature00000022000010415077082407972000204104001002864394CB Test ProductuserDefined1
+[11-Oct-2017 14:20:41 Asia/Rangoon] Processing_mpu:hash76A8756C6237A5BA064FB80A79DBD658CB8F7B09
+[11-Oct-2017 14:24:13 Asia/Rangoon] Processing_mpu:signature000002020000104150770845305520000204104001002864394CB Test ProductuserDefined1
+[11-Oct-2017 14:24:13 Asia/Rangoon] Processing_mpu:hash5340BECE7250C9FFC1C10630A7D2A1F0A1C678D2
+[11-Oct-2017 15:39:20 Asia/Rangoon] Processing_mpu:signature000000120000110001041507712958085204104001002864CB Test ProductuserDefined1
+[11-Oct-2017 15:39:20 Asia/Rangoon] Processing_mpu:hash951E4C770764493D009378AB07F20C203D91FBA4
+[12-Oct-2017 09:50:33 Asia/Rangoon] Processing_mpu:signature00000012000010001041507778431055204104001002864394CB Test ProductuserDefined1
+[12-Oct-2017 09:50:33 Asia/Rangoon] Processing_mpu:hash2879480B0815353F0F323EDFFEFA40812631A777
+[16-Oct-2017 11:47:45 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:48:13 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:48:28 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:49:19 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:49:25 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:49:26 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:49:31 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:49:53 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:49:57 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:50:03 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:50:08 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:50:51 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:52:50 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:53:49 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:54:33 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:54:48 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:55:51 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:56:47 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:57:05 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:57:57 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:58:09 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:58:12 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:58:39 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 11:58:40 Asia/Rangoon] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING) in /home/thebymm/public_html/the-banyan/app/Http/Controllers/TransfersController.php on line 320
+[16-Oct-2017 15:20:22 Asia/Rangoon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 75 bytes) in /home/thebymm/public_html/the-banyan/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 347
+[16-Oct-2017 15:20:27 Asia/Rangoon] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 83 bytes) in /home/thebymm/public_html/the-banyan/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 347
+[19-Oct-2017 14:00:19 Asia/Rangoon] Processing_mpu:signature00000001000010420410400100286422223131CB Test ProductuserDefined1userDefined2userDefined3
+[19-Oct-2017 14:00:19 Asia/Rangoon] Processing_mpu:hashAAE98BB4726CBC207F1077EE8A36D464EF5E1742
+[19-Oct-2017 14:14:28 Asia/Rangoon] Processing_mpu:signature00000012000010001041508399065614204104001002864394CB Test ProductuserDefined1
+[19-Oct-2017 14:14:28 Asia/Rangoon] Processing_mpu:hashC2677D7A2D9872FBE814C60AFF6C76CC7DE4F191
+[19-Oct-2017 14:18:16 Asia/Rangoon] Processing_mpu:signature00000012000010001041508399282102204104001002864394CB Test ProductuserDefined1
+[19-Oct-2017 14:18:16 Asia/Rangoon] Processing_mpu:hash3A38C8AD968BF2CE46C51675F2B8F51054E952DC
+[20-Oct-2017 11:48:23 Asia/Rangoon] Processing_mpu:signature000001020000100001041508476703233204104001002864394CB Test ProductuserDefined1
+[20-Oct-2017 11:48:23 Asia/Rangoon] Processing_mpu:hashA7151D5D7544482129F2581AD3491B028112400D
+[20-Oct-2017 11:58:35 Asia/Rangoon] PHP Fatal error:  Class 'App\Http\Controllers\Input' not found in /home/thebymm/public_html/the-banyan/app/Http/Controllers/NewmpuController.php on line 64
+[20-Oct-2017 14:01:43 Asia/Rangoon] Processing_mpu:signature00000012000010001041508484703454204104001002864394CB Test ProductuserDefined1
+[20-Oct-2017 14:01:43 Asia/Rangoon] Processing_mpu:hashF36289873389F7C052814CA1ABFD6414584B9802
+[20-Oct-2017 14:09:27 Asia/Rangoon] Processing_mpu:signature00000012000010001041508485168345204104001002864394CB Test ProductuserDefined1
+[20-Oct-2017 14:09:27 Asia/Rangoon] Processing_mpu:hash3E32BB1A9DB00CF60B15803976740A21A5B63FF1
+[20-Oct-2017 14:14:38 Asia/Rangoon] Processing_mpu:signature000001020000100001041508485478130204104001002864394CB Test ProductuserDefined1
+[20-Oct-2017 14:14:38 Asia/Rangoon] Processing_mpu:hashE0A42D56A396AA15BADE141BD76EB1C6307F49C5
+[20-Oct-2017 14:26:50 Asia/Rangoon] Processing_mpu:signature000001132100104111211508486211203204104001002864394CB Test ProductuserDefined1
+[20-Oct-2017 14:26:50 Asia/Rangoon] Processing_mpu:hashD8F2673F2ABB8F883797A8BDD921F15DD5E53103
+[20-Oct-2017 14:27:04 Asia/Rangoon] Processing_mpu:signature00000012000010001041508486224460204104001002864394CB Test ProductuserDefined1
+[20-Oct-2017 14:27:04 Asia/Rangoon] Processing_mpu:hash7AA09A484D7A13158E18B5A13E5C579C96E56F69
+[20-Oct-2017 14:27:14 Asia/Rangoon] Processing_mpu:signature000001020000100001041508486235057204104001002864394CB Test ProductuserDefined1
+[20-Oct-2017 14:27:14 Asia/Rangoon] Processing_mpu:hash0A09A7A0C4680901E22A5999A7FF7602FEAB2D7B
+[20-Oct-2017 14:27:27 Asia/Rangoon] Processing_mpu:signature00000012000010001041508486247783204104001002864394CB Test ProductuserDefined1
+[20-Oct-2017 14:27:27 Asia/Rangoon] Processing_mpu:hash0348A49D9075199E7A0D5799A4390788C607CCF9
+[20-Oct-2017 14:27:55 Asia/Rangoon] Processing_mpu:signature00000012000010001041508486275733204104001002864394CB Test ProductuserDefined1
+[20-Oct-2017 14:27:55 Asia/Rangoon] Processing_mpu:hashD4CCE33E2ABCC88BF583F98E4A2B46D73D14E955
+[20-Oct-2017 14:28:23 Asia/Rangoon] Processing_mpu:signature00000012000010001041508486302758204104001002864394CB Test ProductuserDefined1
+[20-Oct-2017 14:28:23 Asia/Rangoon] Processing_mpu:hash2FF35F16606C1B68808112A0A369BED9FE95A77B
+[20-Oct-2017 14:29:08 Asia/Rangoon] Processing_mpu:signature00000012000010001041508486349012204104001002864394CB Test ProductuserDefined1
+[20-Oct-2017 14:29:08 Asia/Rangoon] Processing_mpu:hashFEB0A7260E5D4E6581DF5323F64CB1D3541FF1B7
+[20-Oct-2017 14:33:18 Asia/Rangoon] Processing_mpu:signature00000012000010001041508486596058204104001002864394CB Test ProductuserDefined1
+[20-Oct-2017 14:33:18 Asia/Rangoon] Processing_mpu:hash6E95F16FFE8E44156F3C4276640EB3957BAA556A
+[20-Oct-2017 14:35:11 Asia/Rangoon] Processing_mpu:signature0000001200001000104150848671042820410400100286471CB Test ProductuserDefined1
+[20-Oct-2017 14:35:11 Asia/Rangoon] Processing_mpu:hash2C88033E1CCB46C39FCC7CD20340EFF4B72D6E30
+[20-Oct-2017 14:37:01 Asia/Rangoon] Processing_mpu:signature0000001200001000104150848682085920410400100286471CB Test ProductuserDefined1
+[20-Oct-2017 14:37:01 Asia/Rangoon] Processing_mpu:hash58B13442BAD63CD75F35C58CF8578D8EBB229600
+[20-Oct-2017 19:29:58 Asia/Rangoon] Processing_mpu:signature00000012000010001041508504396049183204104001002864CB Test ProductuserDefined1
+[20-Oct-2017 19:29:58 Asia/Rangoon] Processing_mpu:hash7F227C72EFDB79261A7CFCCEB2057C4E5D9C5961
+[20-Oct-2017 19:31:01 Asia/Rangoon] Processing_mpu:signature000001020000100001041508504459827183204104001002864CB Test ProductuserDefined1
+[20-Oct-2017 19:31:01 Asia/Rangoon] Processing_mpu:hash0A5A9D9CEAD1CAF9E368F2EAA60E25F08DD1FE22
+[21-Oct-2017 12:02:43 Asia/Rangoon] Processing_mpu:signature000001020000100001041508563960496204104001002864853CB Test ProductuserDefined1
+[21-Oct-2017 12:02:43 Asia/Rangoon] Processing_mpu:hashA6473CA69D8DFD7451FA46FF5B2DD39B1D0B5331
+[21-Oct-2017 12:02:48 Asia/Rangoon] Processing_mpu:signature000001020000100001041508563965426204104001002864853CB Test ProductuserDefined1
+[21-Oct-2017 12:02:48 Asia/Rangoon] Processing_mpu:hash4AE9FAF0F093ECA3D176FC7C6B667E6EEDBA7C6A
+[21-Oct-2017 12:03:38 Asia/Rangoon] Processing_mpu:signature000001020000100001041508564015259204104001002864853CB Test ProductuserDefined1
+[21-Oct-2017 12:03:38 Asia/Rangoon] Processing_mpu:hashFBD64B78CA56A3AEDF78C70F76AC4E126BB75A0C
+[21-Oct-2017 12:06:17 Asia/Rangoon] Processing_mpu:signature000001020000100001041508564173984204104001002864853CB Test ProductuserDefined1
+[21-Oct-2017 12:06:17 Asia/Rangoon] Processing_mpu:hash1A81EFDF8A26A13E5296A7C442FD6D8AA912A24D
+[21-Oct-2017 12:06:48 Asia/Rangoon] Processing_mpu:signature00000052000010415085642032802041040010028645000853CB Test ProductuserDefined1
+[21-Oct-2017 12:06:48 Asia/Rangoon] Processing_mpu:hashB855141B61C28C0592B0A6DE74F7E594C97EC9BD
+[21-Oct-2017 12:20:43 Asia/Rangoon] Processing_mpu:signature00000052000010415085650418842041040010028645000853CB Test ProductuserDefined1
+[21-Oct-2017 12:20:43 Asia/Rangoon] Processing_mpu:hashE8C2BAEE950D7F910744F3D8F0622FE12F4B7BBD
+[21-Oct-2017 12:20:56 Asia/Rangoon] Processing_mpu:signature000001020000100001041508565052704204104001002864853CB Test ProductuserDefined1
+[21-Oct-2017 12:20:56 Asia/Rangoon] Processing_mpu:hash698053921052EA854B88607FB0BF090F500388AD
+[21-Oct-2017 12:20:59 Asia/Rangoon] Processing_mpu:signature000001020000100001041508565056528204104001002864853CB Test ProductuserDefined1
+[21-Oct-2017 12:20:59 Asia/Rangoon] Processing_mpu:hashFA3B4E4F8C81A75AC882ACE271B4CDC7B13BF7AC
+[21-Oct-2017 12:21:28 Asia/Rangoon] Processing_mpu:signature00000012000010001041508565085866204104001002864853CB Test ProductuserDefined1
+[21-Oct-2017 12:21:28 Asia/Rangoon] Processing_mpu:hashAD785D76280E2426C41EB988AF7FF2337FE318C9
+[21-Oct-2017 12:24:09 Asia/Rangoon] Processing_mpu:signature000001020000100001041508565246521204104001002864853CB Test ProductuserDefined1
+[21-Oct-2017 12:24:09 Asia/Rangoon] Processing_mpu:hash1300072DADFAFADE3EA9B58C984BF73B3485CE25
+[21-Oct-2017 12:24:37 Asia/Rangoon] Processing_mpu:signature000002020000104150856527582720000204104001002864853CB Test ProductuserDefined1
+[21-Oct-2017 12:24:37 Asia/Rangoon] Processing_mpu:hash01C4DF2272614EB7242A7793095C624203EA25B2
+[26-Oct-2017 15:56:08 Asia/Rangoon] PHP Fatal error:  Class 'App\Http\Controllers\Carbon' not found in /home/thebymm/public_html/the-banyan/app/Http/Controllers/ApiController.php on line 41
+[27-Oct-2017 14:13:25 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '}' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/AccountapiController.php on line 251
+[28-Oct-2017 19:26:15 Asia/Rangoon] Processing_mpu:signature00000032000010415091953737442041040010028643000595CB Test ProductuserDefined1
+[28-Oct-2017 19:26:15 Asia/Rangoon] Processing_mpu:hash1380B58209815921DE0BF383B1695959DFD7A3CC
+[03-Nov-2017 22:04:08 Asia/Rangoon] Processing_mpu:signature00000032000010415097232418292041040010028643000595CB Test ProductuserDefined1
+[03-Nov-2017 22:04:09 Asia/Rangoon] Processing_mpu:hash8CECA5C7774BB74B3075E3AC1BF298DB9B4A5530
+[03-Nov-2017 22:04:11 Asia/Rangoon] Processing_mpu:signature00000032000010415097232460562041040010028643000595CB Test ProductuserDefined1
+[03-Nov-2017 22:04:11 Asia/Rangoon] Processing_mpu:hash94524C997ACD626FFC6DE86C1584348E2C13CE28
+[03-Nov-2017 22:31:46 Asia/Rangoon] Processing_mpu:signature00000032000010415097249041072041040010028643000595CB Test ProductuserDefined1
+[03-Nov-2017 22:31:46 Asia/Rangoon] Processing_mpu:hash8B5DF93808C9CDAEF40A1E378FCCD03B67A58C70
+[06-Nov-2017 14:00:00 Asia/Rangoon] PHP Parse error:  syntax error, unexpected '<' in /home/thebymm/public_html/the-banyan/app/Http/Controllers/AccountapiController.php on line 261

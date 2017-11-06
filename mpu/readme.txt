@@ -1,0 +1,2 @@
+To quick start testing the integration and see it in action, host this entire folder in your web server.
+From your browser, go to http://yourdomain/path_to_hosted_folder/checkout.html or https://yourdomain/path_to_hosted_folder/checkout.html.
